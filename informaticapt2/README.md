@@ -4,7 +4,7 @@
 
 ![DB1](./imagens/db1.png)
 
-
+---
 
 # Aula 09 - Tratamento de dados Power BI
 
@@ -14,7 +14,7 @@ trabalho-emprego-formal-municipios do estado de são Paulo utilizando a função
 
 ![DB2](./imagens/db2.png)
 
-
+---
 
 # Aula 10 - Elaborando perguntas Power BI
 
@@ -36,7 +36,7 @@ trabalho-emprego-formal-municipios do estado de são Paulo utilizando a função
 
 ![DB4](./imagens/db4.jpg)
 
-
+---
 
 # Aula 11 - Regressão Linear
 
@@ -46,13 +46,15 @@ trabalho-emprego-formal-municipios do estado de são Paulo utilizando a função
 ![DB5](./imagens/db5.jpg)
 ![DB6](./imagens/db6.jpg)
 
+---
+
 # Aula 12 - Regressao Linear 2
 
 ## Utilizando o conjunto de dados Redwine quality e fazendo regressão linear para analise da qualidade do vinho
 
 ![DB8](./imagens/db8.jpg)
 
-
+---
 
 # Aula 13 - Dashboard
 
