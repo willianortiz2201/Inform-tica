@@ -24,7 +24,7 @@ trabalho-emprego-formal-municipios do estado de são Paulo utilizando a função
 
 ### resposta: o ano foi o 2020 e o mês foi abril.
 
-![DB3](./imagens/db3.png)
+![DB3](./imagens/db3.jpg)
 
 ### 2 - Qual ano e mês teve o maior saldo de admissão?
 
@@ -34,7 +34,7 @@ trabalho-emprego-formal-municipios do estado de são Paulo utilizando a função
 
 ### resposta: o ano foi 2020 e o mês foi maio
 
-![DB4](./imagens/db4.png)
+![DB4](./imagens/db4.jpg)
 
 
 
@@ -43,14 +43,14 @@ trabalho-emprego-formal-municipios do estado de são Paulo utilizando a função
 ## Dados kaggles Data setet/Temperatura and ice cream sales editamos no "Excel" para obtermos o Y=0,7083X + 47,843
 ## E levamos aos google colap utilizando phyton na biblioteca pandas para obtermos a regressão linear e o coeficiente -0,67
 
-![DB5](./imagens/db5.png)
-![DB6](./imagens/db6.png)
+![DB5](./imagens/db5.jpg)
+![DB6](./imagens/db6.jpg)
 
 # Aula 12 - Regressao Linear 2
 
 ## Utilizando o conjunto de dados Redwine quality e fazendo regressão linear para analise da qualidade do vinho
 
-![DB8](./imagens/db8.png)
+![DB8](./imagens/db8.jpg)
 
 
 
